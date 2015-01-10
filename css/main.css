@@ -1,0 +1,36 @@
+body {
+    font-family: Kalimati, Verdana, sans-serif;
+    color: #666666;
+    line-height: 2;
+    font-size: 16px;
+    margin-top: 25px;
+}
+
+h1 {
+    font-size: 48px;
+}
+
+h2 {
+    font-size: 24px;
+    color: #F07C17;
+    font-weight: 600;
+}
+
+.bordered {
+    border: solid 1px;
+    color: #CCCCCC;
+    margin-top: 30px;
+    padding: 10px 30px 30px 30px;
+}
+
+.paragraph {
+    padding-top: 20px;
+}
+
+.image {
+    padding-top: 20px;
+}
+
+.list {
+    padding-top: 20px;
+}

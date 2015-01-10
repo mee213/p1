@@ -1,0 +1,7 @@
+To complete this project, I referred to the following websites:
+
+1. http://getbootstrap.com/css/
+
+2. https://www.google.com/fonts
+
+3. http://www.fonts.com/font/microsoft-corporation/verdana?QueryFontType=Web&src=GoogleWebFonts#product_top
